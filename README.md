@@ -6,7 +6,7 @@ To run the code,
       python main_time.py
 ```
 
-The datasets are Taobao and BeerAdvocate. Basically any dataset having sequences of user actions and the category information of items can be used for the algorithms.
+The datasets are Taobao (https://tianchi.aliyun.com/dataset/dataDetail?dataId=649) and BeerAdvocate (http://jmcauley.ucsd.edu/cse255/data/beer/). Basically any dataset having sequences of user actions and the category information of items can be used for the algorithms.
 
 BibTeX for citation:
 
